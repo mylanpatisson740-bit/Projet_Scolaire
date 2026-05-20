@@ -1,12 +1,13 @@
 # 🔥 Fireball Game — Mini Jeu Python
 
-> Projet réalisé en classe de Première — Initiation à la **Programmation Orientée Objet** en Python
+> Projet réalisé en classe de Première / Revue en Première année de BTS
+> — Initiation à la **Programmation Orientée Objet** en Python
 
 ---
 
 ## 📖 Description
 
-**Fireball Game** est un mini jeu vidéo développé en Python avec **PyCharm**. Le joueur incarne un personnage (représenté par un arbre) et peut lancer des boules de feu en appuyant sur une touche. Ce projet a été conçu comme une introduction concrète aux concepts de la **Programmation Orientée Objet (POO)**.
+**Fireball Game** (le nom que je lui ai donne car en vrai il n'en a pas ) est un mini jeu vidéo développé en Python avec **PyCharm**. Le joueur incarne un personnage (représenté par un arbre) et peut lancer des boules de feu en appuyant sur une touche. Ce projet a été réalisé dans le but de découvrir un peu en profondeur le    python  **Programmation Orientée Objet (POO)**.
 
 ---
 
@@ -23,6 +24,7 @@
 | Touche | Action |
 |--------|--------|
 | `Espace` | Lancer une boule de feu |
+| `Flèches directionnelles` | Se déplacer |
 
 ---
 
