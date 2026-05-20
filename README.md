@@ -60,16 +60,15 @@ Ce projet permet de comprendre et de pratiquer les notions fondamentales de la P
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/ton-utilisateur/fireball-game.git
+   git clone https://github.com/mylanpatisson740-bit/Projet_Scolaire
    ```
 2. Ouvre le projet dans **PyCharm Ou un autre IDE permmettant de faire du python**
-3. Lance le fichier principal :
+3. Lance le fichier principal depuis le terminal avec la commande :
    ```bash
-   python main.py
+   py main.py
    ```
-
 ---
 
 ## 📚 Contexte
 
-Projet réalisé en **classe de Première** dans le cadre d'un apprentissage de la programmation orientée objet avec Python.
+Projet réalisé en **classe de Première PRO** dans le cadre d'un apprentissage de la programmation orientée objet avec Python.Finalisé par la suite en Première année de BTS.
