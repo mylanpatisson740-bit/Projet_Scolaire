@@ -47,7 +47,7 @@ Ce projet permet de comprendre et de pratiquer les notions fondamentales de la P
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🛠️ Matériels utilisées
 
 - **Langage** : Python
 - **IDE** : PyCharm
@@ -60,7 +60,7 @@ Ce projet permet de comprendre et de pratiquer les notions fondamentales de la P
    ```bash
    git clone https://github.com/ton-utilisateur/fireball-game.git
    ```
-2. Ouvre le projet dans **PyCharm**
+2. Ouvre le projet dans **PyCharm Ou un autre IDE permmettant de faire du python**
 3. Lance le fichier principal :
    ```bash
    python main.py
